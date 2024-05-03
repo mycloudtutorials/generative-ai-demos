@@ -1,0 +1,4 @@
+streamlit
+langchain
+faiss-cpu
+boto3
