@@ -22,7 +22,7 @@ In this video, we will implement a text summarization application. This applicat
   Build Docker Image:
   `docker build -t serverless-text-summarization-frontend .`
 
-  Run ADMIN application:
+  Run Frontend application:
   `docker run -p 8082:8082 -it serverless-text-summarization-frontend`
 
 
